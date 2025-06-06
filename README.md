@@ -24,3 +24,7 @@ hi link EldocCur Identifier  " Highlight for currently focused parameter
 ```
 
 For other plugin managers, consult their documentations.
+
+### License
+
+AGPLv3

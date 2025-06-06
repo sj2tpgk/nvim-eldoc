@@ -1,3 +1,5 @@
+-- SPDX-License-Identifier: AGPL-3.0-only
+
 local M = {
     -- for debugging
     _lspsig_exists = false,
